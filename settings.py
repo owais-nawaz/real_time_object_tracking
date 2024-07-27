@@ -38,4 +38,4 @@ SEGMENTATION_MODEL = MODEL_DIR / "yolov8n-seg.pt"  # you can use custom models a
 
 
 # Webcam
-WEBCAM_PATH = 0
+WEBCAM_PATH = 1
